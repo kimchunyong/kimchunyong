@@ -1,6 +1,7 @@
 ## Front-end developer
 
 - 🔭 **개인 프로젝트**: [나와 닮은 포켓몬 찾기](https://pokemon-lookalike.shop/) 운영 중
+- 🔭 **개인 프로젝트**: ai자동화 에이전시 및 블로그 작성 에이전트 팀 (오케스트레이션 + Cron + DB 기반 운영 중)
 - 🌱 **현재 관심 분야**: AI Driven Development 및 업무 자동화
 - 💬 **소통**: 기술적인 고민을 나누고 공유하는 것을 즐깁니다.
 
